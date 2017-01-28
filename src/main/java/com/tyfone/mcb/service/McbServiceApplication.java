@@ -8,5 +8,6 @@ public class McbServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(McbServiceApplication.class, args);
+		System.out.println("hello");
 	}
 }
