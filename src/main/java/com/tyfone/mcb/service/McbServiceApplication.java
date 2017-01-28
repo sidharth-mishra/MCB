@@ -10,5 +10,6 @@ public class McbServiceApplication {
 		SpringApplication.run(McbServiceApplication.class, args);
 		System.out.println("At remote");
 		System.out.println("from local");
+		System.out.println("At remote now second changes");
 	}
 }
