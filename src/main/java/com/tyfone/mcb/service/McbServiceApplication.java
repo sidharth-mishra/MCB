@@ -8,6 +8,6 @@ public class McbServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(McbServiceApplication.class, args);
-		System.out.println("At remote");
+		System.out.println("At remote now second changes");
 	}
 }
